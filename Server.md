@@ -1,3 +1,4 @@
+![UI](https://user-images.githubusercontent.com/82692186/115153874-6f4ad300-a04e-11eb-8ca2-44b87b2ab184.png)
 Server.md
 # Deploying Rocket.Chat Server – Installing in my own server.
 
@@ -26,7 +27,7 @@ For this I used ngrok, it’s a reverse proxy that creates a secure tunnel from 
 The ngrok documentation can be found here -> ngrok – documentation
  
 When started ngrok, it’ll display a UI in the terminal with the public URL 
- ![teste](C:\Users\Pedrobkp\OneDrive\Área de Trabalho\serverRC/UI.jpg)
+ ![teste](C:\Users\Pedrobkp\OneDrive\Área de Trabalho\serverRC\UI.jpg) 
 This URL can be accessed on any network.
 3.2. Tunneling only HTTPS.  
  
